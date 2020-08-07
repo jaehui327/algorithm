@@ -4,7 +4,9 @@ python algorithm 공부 정리
 [[Python/문제풀이] 파이썬을 무기로, 코딩테스트 광탈을 면하자!](https://programmers.co.kr/learn/courses/9877#curriculum)
 
 ### 파트1. 해시(Hash) 대표 문제 풀이: 완주하지 못한 선수 
-- [ ] Step1: 문제 지문(Description)을 읽고 요구사항 정확히 이해하기 (12분 29초)
+[1. 해시(Hash) - 완주하지 못한 선수](https://github.com/jaehui327/algorithm/tree/master/1.%20%ED%95%B4%EC%8B%9C(Hash)%20-%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
+
+- [x] Step1: 문제 지문(Description)을 읽고 요구사항 정확히 이해하기 (12분 29초)
 - [ ] Step 2: Python 풀이 예제 보기 (12분 25초)
 - [ ] Step3: 풀어서 내걸로 만들자! "완주하지 못한 선수"
 
