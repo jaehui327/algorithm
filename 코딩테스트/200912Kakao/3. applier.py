@@ -19,7 +19,7 @@ def solution(info, query):
         for a in applier:
             able = True
             for i in range(0, 5):
-                print(c, a, count)
+                # print(c, a, count)
                 if i == 4:
                     if int(a[i]) >= int(c[i]):
                         continue
