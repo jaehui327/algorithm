@@ -64,7 +64,7 @@ mislav는 참여자 명단에는 두 명이 있지만, 완주자 명단에는 �
 ##### hash bucket
 해시 테이블(hash table) 내의 각각의 칸들을 해시 버킷(hash bucket)이라고 부른다.
 버킷의 수가 많을수록 서로 다른 키가 서로 다른 버킷에 사상(mapping)될 수 있는 가능성이 높아진다.
-![](./images/1.png)
+![](images/1.png)
 
 ##### 충돌 (collision)
 두 개 이상의 키(key) 값이 해시 테이블의 같은 버킷(bucket)을 가리킬 때 해시 충돌이 일어났다고 표현한다.
