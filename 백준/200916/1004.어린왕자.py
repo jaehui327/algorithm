@@ -23,9 +23,13 @@
 #
 t=int(input())
 for _ in range(t):
+    c=0
     x1, y1, x2, y2 = map(int, input().split())
-    p=[]
     n=int(input())
     for _ in range(n):
-        p.append(map(int, input().split()))
-    
+        cx, cy, r = map(int, input().split())
+        d1 = (((x1 - cx) ** 2) + ((y1 - cy) ** 2)) ** 0.5
+        d2 = (((x2 - cx) ** 2) + ((y2 - cy) ** 2)) ** 0.5
+        if (d1 < r and d2 > r) or (d1 > r and d2 < r): c+=1
+    print(c)
+
