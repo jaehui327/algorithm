@@ -16,3 +16,4 @@
 # 첫째 줄에 답을 출력한다.
 #
 a,b=map(int, input().split())
+print(a-1+(b-1)*a)

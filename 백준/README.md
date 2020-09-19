@@ -17,3 +17,6 @@
 - [x] [10998.AxB](https://www.acmicpc.net/problem/10998)
 - [x] [10430.나머지](https://www.acmicpc.net/problem/10430)
 - [x] [2588.곱셈](https://www.acmicpc.net/problem/2588)
+
+### 200918
+- [x] [2163.초콜릿 자르기](https://www.acmicpc.net/problem/2163)
