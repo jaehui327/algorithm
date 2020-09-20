@@ -20,3 +20,9 @@
 
 ### 200918
 - [x] [2163.초콜릿 자르기](https://www.acmicpc.net/problem/2163)
+
+### 200919
+- [x] [15552.빠른A+B](https://www.acmicpc.net/problem/15552)
+
+### 200920
+- [ ] [2579.계단 오르기](https://www.acmicpc.net/problem/2579)
