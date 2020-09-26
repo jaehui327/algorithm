@@ -25,4 +25,8 @@
 - [x] [15552.빠른A+B](https://www.acmicpc.net/problem/15552)
 
 ### 200920
-- [ ] [2579.계단 오르기](https://www.acmicpc.net/problem/2579)
+- [x] [2579.계단 오르기](https://www.acmicpc.net/problem/2579)
+
+### 200926
+- [x] [11653.소인수분해](https://www.acmicpc.net/problem/11653)
+
