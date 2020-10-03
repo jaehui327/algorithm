@@ -30,3 +30,7 @@
 ### 200926
 - [x] [11653.소인수분해](https://www.acmicpc.net/problem/11653)
 
+### 201003
+- [x] [1026.보물](https://www.acmicpc.net/problem/1026)
+
+
