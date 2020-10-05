@@ -33,4 +33,5 @@
 ### 201003
 - [x] [1026.보물](https://www.acmicpc.net/problem/1026)
 
-
+### 201006
+- [x] [15740.A+B-9](https://www.acmicpc.net/problem/15740)
