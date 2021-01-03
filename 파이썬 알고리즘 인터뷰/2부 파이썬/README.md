@@ -46,17 +46,17 @@
     인덴트(Indent)는 공식 가이드인 PEP 8에 따라 공백 4칸을 원칙으로 한다.
 
     ```python
-    foo = long_function_name(var_one, var_two,
-    												 var_three, var_four)
+    foo = long_function_name(var_one, var_two, 
+                             var_three, var_four)
 
     def long_function_name(
-    				var_one, var_two, var_three,
-    				var_four):
-    		print(var_one)
+            var_one, var_two, var_three,
+            var_four):
+        print(var_one)
 
     foo = long_function_name(
-    		var_one, var_two,
-    		var_three, var_four)
+        var_one, var_two,
+        var_three, var_four)
     ```
 
     → 파라미터를 다른 행과 구분되게 하여 보기 좋게 맞춘다.
@@ -150,23 +150,23 @@
 
     ```python
     def get_natural_number():
-    		n = 0
-    		while True:
-    				n += 1
-    				yield n
+        n = 0
+        while True:
+            n += 1
+            yield n
 
     g = get_natural_number()
     for _ in range(0, 100):
-    		print(next(g))
+        print(next(g))
     ```
 
     제너레이터는 여러 타입의 값을 하나의 함수에서 생성하는 것도 가능하다.
 
     ```python
     def generator():
-    		yield 1
-    		yield 'string'
-    		yield True
+        yield 1
+        yield 'string'
+        yield True
 
     g = generator()
     print(next(g))
@@ -187,7 +187,7 @@
     <class 'range'>
 
     >>> for i in range(5):
-    				print(i, end=' ')
+        print(i, end=' ')
     0 1 2 3 4
     ```
 
@@ -220,7 +220,7 @@
 
     ```python
     >>> a = [1, 2, 3, 2, 45, 2, 5]
-    		list(enumerate(a))
+        list(enumerate(a))
     [(0, 1), (1, 2), (2, 3), (3, 2), (4, 45), (5, 2), (6, 5)]
     ```
 
@@ -309,12 +309,12 @@
 
     ```python
     class MyClass(object):
-    		def method_a(self):
-    				# 여기에 pass 추가
-    				pass
+        def method_a(self):
+            # 여기에 pass 추가
+            pass
 
-    		def method_b(self):
-    				print("Method B")
+        def method_b(self):
+            print("Method B")
 
     c = MyClass()
     ```
@@ -372,21 +372,21 @@
 
     ```python
     def num_matching_subseq(self, S: str, words: [str]) -> int:
-    		matched_count = 0
+        matched_count = 0
 
-    		for word in words:
-    				pos = 0
-    				for i in range(lend(word)):
-    						# Find matcing postion for each character.
-    						found_pos = S[pos:].find(word[i])
-    						if found_pos < 0:
-    								matched_count -= 1
-    								break
-    						else: # If found, take step position forward.
-    								pos += found_pos + 1
-    				matched_count += 1
+        for word in words:
+            pos = 0
+            for i in range(lend(word)):
+                # Find matcing postion for each character.
+                found_pos = S[pos:].find(word[i])
+                if found_pos < 0:
+                    matched_count -= 1
+                    break
+                else: # If found, take step position forward.
+                    pos += found_pos + 1
+            matched_count += 1
 
-    		return matched_count
+        return matched_count
     ```
 
     → 간단한 주석을 부여하는 편이 훨씬 더 가독성이 높아 보인다.
@@ -418,14 +418,14 @@
     str1s = [str1[i:i + 2].lower() for i in range(len(str1) - 1) if re.findall('[a-z]{2}', str1[i:i + 2].lower())]
     # 역할별로 줄 구분
     str1s = [
-    		str1[i:i + 2].lower() for i in range(len(str1) - 1)
-    		if re.findall('[a-z]{2}', str1[i:i + 2].lower())
+        str1[i:i + 2].lower() for i in range(len(str1) - 1)
+        if re.findall('[a-z]{2}', str1[i:i + 2].lower())
     ]
     # 모두 풀어서
     str1s = []
     for i in range(len(str1) - 1):
-    		if re.fundall('[a-z]{2}', str1[i:i + 2].lower()):
-    				str1s.append(str1[i:i + 2].lower())
+        if re.fundall('[a-z]{2}', str1[i:i + 2].lower()):
+            str1s.append(str1[i:i + 2].lower())
     ```
 
 - 구글 파이썬 스타일 가이드
@@ -445,15 +445,15 @@
         def foo(a, b=[]):
         # Yes!
         def foo(a, b=None):
-        		if b is None:
-        				b = []
+            if b is None:
+            b = []
 
         # No
         def foo(a, b: Mapping = {}):
         # Yes!
         def foo(a, b: Optional[Sequence] = None):
-        		if b is None:
-        				b = []
+            if b is None:
+                b = []
         ```
 
     2. `True`, `False` 를 판별할 때는 암시적(Implicit)인 방법을 사용하는 편이 가독성이 높다.
