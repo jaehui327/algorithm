@@ -1,6 +1,6 @@
 # 파이썬 알고리즘 인터뷰
 
-## [1부 코딩 인터뷰](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/1%EC%9E%A5%20%EC%BD%94%EB%94%A9%20%EC%9D%B8%ED%84%B0%EB%B7%B0#1%EB%B6%80-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+## [1부 코딩 인터뷰](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/1%EB%B6%80%20%EC%BD%94%EB%94%A9%20%EC%9D%B8%ED%84%B0%EB%B7%B0#1%EB%B6%80-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0)
 코딩 테스트에 대한 소개, 어떻게 하면 시험을 잘 치를 수 있을지, 타임아웃/예외 처리, 언어별 특징
 
 ## [2부 파이썬](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC#2%EB%B6%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
