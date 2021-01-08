@@ -29,7 +29,8 @@ leetcode 문제 풀이 및 체크리스트
 
 코딩 테스트에 대한 소개, 어떻게 하면 시험을 잘 치를 수 있을지, 타임아웃/예외 처리, 언어별 특징
 
----
+
+
 
 ### [2부 파이썬](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC#2%EB%B6%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
@@ -49,24 +50,30 @@ leetcode 문제 풀이 및 체크리스트
 
 구조를 확실히 이해해 기초를 튼튼히하고 활용법 숙지
 
-#### [6장 문자열 조작]
+#### [6장 문자열 조작](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/6%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91#6%EC%9E%A5-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A1%B0%EC%9E%91)
 
----
+String Manipulation, 문자열 변경/분리 등의 과정, 본격적으로 문제 풀이
+
+
+
 
 ### [3부 선형 자료구조]
 배열~해시 테이블까지 Linear 자료구조, 코딩 인터뷰 대비 문제 풀이
 
----
+
+
 
 ### [4부 비선형 자료구조]
 그래프~트라이, Non-Linear 자료구조, 코딩 인터뷰 대비 문제 풀이
 
----
+
+
 
 ### [5부 알고리즘]
 정렬, 그리디 알고리즘, 분할 정복, 다이나믹 프로그래밍은 서로 연관된 주제, 가각의 특징과 차이점
 
----
+
+
 
 ### [부록]
 A - 회사 및 이직 가이드, B - 카카오 공채 문제 풀이
