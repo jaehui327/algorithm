@@ -2,15 +2,16 @@
 
 ### 210107
 
-- [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+- [x] [125. Valid Palindrome (문자열)](https://leetcode.com/problems/valid-palindrome/)
+- [x] [344. Reverse String(문자열)](https://leetcode.com/problems/reverse-string/)
 
 
 ### 210108
 
-- [x] [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
-- [x] [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
-- [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [937. Reorder Data in Log Files(문자열)](https://leetcode.com/problems/reorder-data-in-log-files/)
+- [x] [819. Most Common Word(문자열)](https://leetcode.com/problems/most-common-word/)
+- [x] [49. Group Anagrams(문자열)](https://leetcode.com/problems/group-anagrams/)
+- [x] [5. Longest Palindrome Substring(문자열)](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
 
