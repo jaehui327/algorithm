@@ -22,61 +22,122 @@ leetcode 문제 풀이 및 체크리스트
 
 
 
-## [파이썬 알고리즘 인터뷰](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0#%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+## 파이썬 알고리즘 인터뷰
 파이썬 알고리즘 인터뷰 책 정리 및 문제 풀이
 
-### [1부 코딩 인터뷰](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/1%EB%B6%80%20%EC%BD%94%EB%94%A9%20%EC%9D%B8%ED%84%B0%EB%B7%B0#1%EB%B6%80-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+- [x] 1부 코딩 인터뷰
 
 코딩 테스트에 대한 소개, 어떻게 하면 시험을 잘 치를 수 있을지, 타임아웃/예외 처리, 언어별 특징
 
 
 
 
-### [2부 파이썬](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC#2%EB%B6%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+### 2부 파이썬
 
 파이썬 코딩 스타일, 빅오(알고리즘의 시간 복잡도), 파이썬의 자료형, 리스트, 딕셔너리, 문자열 조작, 알고리즘 문제 풀이
 
-#### [3장 파이썬](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/3%EC%9E%A5%20%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+- [x] 3장 파이썬
 
 파이썬의 코딩 스타일
 
-#### [4장 빅오, 자료형](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/4%EC%9E%A5%20%EB%B9%85%EC%98%A4%2C%20%EC%9E%90%EB%A3%8C%ED%98%95#4%EC%9E%A5-%EB%B9%85%EC%98%A4-%EC%9E%90%EB%A3%8C%ED%98%95)
+- [x] 4장 빅오, 자료형
 
 빅오, '상한'과 '최악', 분할 상환 분석, 파이썬 자료형의 특징
 
-#### [5장 리스트, 딕셔너리](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/5%EC%9E%A5%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%2C%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC#5%EC%9E%A5-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
+- [x] 5장 리스트, 딕셔너리
 
 파이썬을 사용하면서 가장 빈번하게 접하게 되는 자료형
 
 구조를 확실히 이해해 기초를 튼튼히하고 활용법 숙지
 
-#### [6장 문자열 조작](https://github.com/jaehui327/algorithm/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/2%EB%B6%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/6%EC%9E%A5%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91#6%EC%9E%A5-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A1%B0%EC%9E%91)
+- [x] 6장 문자열 조작
 
 String Manipulation, 문자열 변경/분리 등의 과정, 본격적으로 문제 풀이
 
 
 
 
-### [3부 선형 자료구조]
-배열~해시 테이블까지 Linear 자료구조, 코딩 인터뷰 대비 문제 풀이
+### 3부 선형 자료구조
+데이터 요소가 순차적(Sequential)으로 배열되는 지료구조
+
+단일 레벨로 구성되어 한 번에 탐색 가능하고 구현이 쉽다.
+
+배열이 어떻게 메모리에 배치되고 활용되는지, 정적 배열의 한계와 동적 배열의 활용
+
+배열, 스택, 큐, 연결 리스트, 데크, 우선순위 큐, 해시 테이블까지의 Linear 자료구조, 코딩 인터뷰 대비 문제 풀이
+
+
+- [ ] 7장 배열
+
+
+- [ ] 8장 연결 리스트
+
+
+- [ ] 9장 스택, 큐
+
+
+- [ ] 10장 데크, 우선순위 큐
+
+
+- [ ] 11장 해시 테이블
 
 
 
-
-### [4부 비선형 자료구조]
+### 4부 비선형 자료구조
 그래프~트라이, Non-Linear 자료구조, 코딩 인터뷰 대비 문제 풀이
 
 
+- [ ] 12장 그래프
 
 
-### [5부 알고리즘]
+- [ ] 13장 최단 경로 문제
+
+
+- [ ] 14장 트리
+
+
+- [ ] 15장 힙
+
+
+- [ ] 16장 트라이
+
+
+
+
+### 5부 알고리즘
 정렬, 그리디 알고리즘, 분할 정복, 다이나믹 프로그래밍은 서로 연관된 주제, 가각의 특징과 차이점
+
+
+
+- [ ] 17장 정렬
+
+
+- [ ] 18장 이진 검색
+
+
+- [ ] 19장 비트 조작
+
+
+- [ ] 20장 슬라이딩 윈도우
+
+
+- [ ] 21장 그리디 알고리즘
+
+
+- [ ] 22장 분할 정복
+
+
+- [ ] 23장 다이나믹 프로그래밍
 
 
 
 
 ### [부록]
-A - 회사 및 이직 가이드, B - 카카오 공채 문제 풀이
+- [ ] 부록 A 회사 및 이직 가이드
+
+
+- [ ] 부록 B 카카오 공채 문제 풀이
+
 
 
 
