@@ -25,9 +25,12 @@ import re
 import collections
 
 
-def most_common_word(self, paragraph: str, banned: [str]) -> str:
+def most_common_word(paragraph: str, banned: [str]) -> str:
     # 소문자, 구두점을 제외하고 banned를 제외한 단어 목록 저장
     words = [word for word in re.sub(r'[^\w]', ' ', paragraph).lower().split() if word not in banned]
     counts = collections.Counter(words)
     # 가장 흔하게 등장하는 단어의 첫 번째 인덱스 리턴
     return counts.most_common(1)[0][0]
+
+
+print(most_common_word('a, d, v, a, d, v, a, a, d', ['a']))
