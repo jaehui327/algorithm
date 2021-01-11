@@ -21,7 +21,7 @@
 import collections
 
 
-def group_anagrams(self, strs: [str]) -> [[str]]:  # 정렬하여 딕셔너리에 추가
+def group_anagrams(strs: [str]) -> [[str]]:  # 정렬하여 딕셔너리에 추가
     anagrams = collections.defaultdict(list)
     for word in strs:
         # 정렬하여 딕셔너리에 추가

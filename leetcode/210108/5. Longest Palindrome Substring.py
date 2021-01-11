@@ -22,7 +22,7 @@
 #
 
 
-def longest_palindrome(self, s: str) -> str:  # 중앙을 중심으로 확장하는 풀이
+def longest_palindrome(s: str) -> str:  # 중앙을 중심으로 확장하는 풀이
     # 팰린드롬 판별 및 투 포인터 확장
     def expand(left: int, right: int) -> str:
         while left >= 0 and right < len(s) and s[left] == s[right]:

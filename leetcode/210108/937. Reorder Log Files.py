@@ -22,7 +22,7 @@
 #
 
 
-def reorder_log_files(self, logs: [str]) -> [str]:  # 람다와 + 연산자 이용
+def reorder_log_files(logs: [str]) -> [str]:  # 람다와 + 연산자 이용
     letters, digits = [], []
     for log in logs:  # 숫자와 문자 구분
         if log.split()[1].isdigit():

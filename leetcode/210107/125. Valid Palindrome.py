@@ -16,7 +16,7 @@ from collections import deque
 import re
 
 
-def is_palindrome(self, s: str) -> bool:  # 1. 리스트로 변환
+def is_palindrome(s: str) -> bool:  # 1. 리스트로 변환
     strs = []
     for char in s:
         if char.isalnum():  # 영문자, 숫자 여부 판별하여 해당하는 문자만 추가
@@ -32,7 +32,7 @@ def is_palindrome(self, s: str) -> bool:  # 1. 리스트로 변환
 # 304ms
 
 
-def is_palindrome2(self, s: str) -> bool:  # 2. 데크 자료형을 이용한 최적화
+def is_palindrome2(s: str) -> bool:  # 2. 데크 자료형을 이용한 최적화
     # 자료형 데크로 선언
     strs = deque()
     for char in s:
@@ -49,7 +49,7 @@ def is_palindrome2(self, s: str) -> bool:  # 2. 데크 자료형을 이용한 �
 # O(n)
 # 64ms
 
-def is_palindrome3(self, s: str) -> bool:  # 3. 슬라이싱 사용
+def is_palindrome3(s: str) -> bool:  # 3. 슬라이싱 사용
     s = s.lower()
     # 정규식으로 불필요한 문자 필터링
     s = re.sub('[^a-z0-9]', '', s)

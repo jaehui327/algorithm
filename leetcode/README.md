@@ -17,7 +17,7 @@
 ### 210111
 
 - [x] [1. Two Sum(배열)](https://leetcode.com/problems/two-sum/)
-
+- [ ] [42. Trapping Rain Water(배열)](https://leetcode.com/problems/trapping-rain-water/)
 
 
 
