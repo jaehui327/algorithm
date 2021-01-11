@@ -14,6 +14,13 @@
 - [x] [5. Longest Palindrome Substring(문자열)](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
+### 210111
+
+- [ ] [1. Two Sum(배열)(https://leetcode.com/problems/two-sum/)
+
+
+
+
 
 ---
 
