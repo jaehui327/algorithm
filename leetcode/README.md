@@ -16,7 +16,7 @@
 
 ### 210111
 
-- [ ] [1. Two Sum(배열)(https://leetcode.com/problems/two-sum/)
+- [x] [1. Two Sum(배열)](https://leetcode.com/problems/two-sum/)
 
 
 
