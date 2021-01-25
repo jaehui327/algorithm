@@ -2,22 +2,22 @@
 
 ### 210107
 
-- [x] 125. Valid Palindrome (문자열) [문제](https://leetcode.com/problems/valid-palindrome/) 풀이
-- [x] 344. Reverse String(문자열) [문제](https://leetcode.com/problems/reverse-string/) 풀이
+- [x] 125. Valid Palindrome (문자열) [문제](https://leetcode.com/problems/valid-palindrome/) [풀이]
+- [x] 344. Reverse String(문자열) [문제](https://leetcode.com/problems/reverse-string/) [풀이]
 
 
 ### 210108
 
-- [x] 937. Reorder Data in Log Files(문자열) [문제](https://leetcode.com/problems/reorder-data-in-log-files/) 풀이
-- [x] 819. Most Common Word(문자열) [문제](https://leetcode.com/problems/most-common-word/) 풀이
-- [x] 49. Group Anagrams(문자열) [문제](https://leetcode.com/problems/group-anagrams/) 풀이
-- [x] 5. Longest Palindrome Substring(문자열) [문제(https://leetcode.com/problems/longest-palindromic-substring/) 풀이
+- [x] 937. Reorder Data in Log Files(문자열) [문제](https://leetcode.com/problems/reorder-data-in-log-files/) [풀이]
+- [x] 819. Most Common Word(문자열) [문제](https://leetcode.com/problems/most-common-word/) [풀이]
+- [x] 49. Group Anagrams(문자열) [문제](https://leetcode.com/problems/group-anagrams/) [풀이]
+- [x] 5. Longest Palindrome Substring(문자열) [문제](https://leetcode.com/problems/longest-palindromic-substring/) [풀이]
 
 
 ### 210111
 
-- [x] 1. Two Sum(배열) [문제](https://leetcode.com/problems/two-sum/) 풀이
-- [ ] 42. Trapping Rain Water(배열) [문제](https://leetcode.com/problems/trapping-rain-water/) 풀이
+- [x] 1. Two Sum(배열) [문제](https://leetcode.com/problems/two-sum/) [풀이](https://github.com/jaehui327/algorithm/tree/master/leetcode#1-%EB%91%90%EC%88%98%EC%9D%98-%ED%95%A9)
+- [ ] 42. Trapping Rain Water(배열) [문제](https://leetcode.com/problems/trapping-rain-water/) [풀이]
 
 
 
