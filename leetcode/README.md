@@ -2,7 +2,7 @@
 
 ### 210107
 
-- [x] 125. Valid Palindrome (문자열) [문제](https://leetcode.com/problems/valid-palindrome/) [풀이]
+- [x] 125. Valid Palindrome (문자열) [문제](https://leetcode.com/problems/valid-palindrome/) [풀이](https://github.com/jaehui327/algorithm/tree/master/leetcode#1-%EC%9C%A0%ED%9A%A8%ED%95%9C-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
 - [x] 344. Reverse String(문자열) [문제](https://leetcode.com/problems/reverse-string/) [풀이]
 
 
@@ -40,7 +40,7 @@ from typing import *
 
 
 ## 문자열
-### 1. 유효한 팰린드롬
+### 125. 유효한 팰린드롬
 
 leetcode 125. Valid Palindrome
 
